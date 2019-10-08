@@ -18,7 +18,13 @@
 3. Mobile App
 
 ## coverage
-Data Structures, Algoriths, Design Patterns, Git, NodeJs, Angular 2+, MongoDb, Ionic, IDEs, HTML, CSS, SCSS, JS
+Data Structures, Algoriths, Design Patterns, Git, NodeJs, Angular 2+, MongoDb, Ionic, IDEs, HTML, CSS, SCSS, JS, AWS (S3, SQS, EC2, LBS), Android and iOS app Releasing, Web deployment, Server deployment, PM2, Nginx
+
+## Who Should Join:
+1. Students who want there career in programming.
+2. Testers: who want to be programmers
+3. Developers: who want to be better earning or extend there skills.
+4. Any one want to become a CODER.....
 
 ## Inside
 1. Concepts
