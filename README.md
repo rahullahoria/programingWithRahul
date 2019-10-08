@@ -31,9 +31,17 @@ Data Structures, Algoriths, Design Patterns, Git, NodeJs, Angular 2+, MongoDb, I
 2. Real Examples
 3. Interview Stuffs
 
+# About Me
+
+I am Rahul Lahoria. Co-founder and CTO of Mogi App. I have been coding since age of 11. I did my M.tech Computer science from IIT kharagpur. I have been working on AI and cloud computing for more than 6 years and also filled 6 patents in Mobile technologies 
+
+I have been extremely passionate about startups from my school days. And have been a part of 4 startups till now. Out of which in one I was the founder and CEO.
+
+https://in.linkedin.com/in/rahul-lahoria-36243993
+
 # Location : Delhi
 
-# Contact Details
+# Contact Us
 
 Mobile: 882307448
 Address:  Building no.2 3rd Floor, GT Karnal Rd, State Bank Colony, Delhi 110009
